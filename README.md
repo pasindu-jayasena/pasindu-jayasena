@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pasindujayasena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pasindujayasena/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pasindujayasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindujayasena" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22831296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22831296" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pasindujayasena0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pasindujayasena0/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pasindujayasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pasindujayasena" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pasindu_jayasena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pasindu_jayasena/" height="30" width="40" /></a>
+<a href="https://fb.com/pasindujayasena0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindujayasena0" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pasindujayasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pasindujayasena" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pasindu_jayasena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pasindu_jayasena/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
