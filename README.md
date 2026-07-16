@@ -127,12 +127,13 @@ Scalable web applications, APIs, databases, UI/UX and modern development practic
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pasindujayasena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=0EA5E9&text_color=C9D1D9" alt="Pasindu's GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindujayasena&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=0EA5E9&currStreakLabel=C9D1D9" alt="Pasindu's GitHub streak" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=pasindu-jayasena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=0EA5E9&text_color=C9D1D9" alt="Pasindu's GitHub statistics" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=pasindu-jayasena&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=0EA5E9&currStreakLabel=C9D1D9" alt="Pasindu's GitHub streak" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayasena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Most used languages" />
+<img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pasindu-jayasena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
 
